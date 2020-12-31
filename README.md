@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- **CrowBaldeYT Profile**
+**CrowBaldeYT Profile**
 - [
 - 🔭 I’m currently working on My Server
 - 🌱 I’m currently learning PHP
